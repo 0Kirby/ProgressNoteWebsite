@@ -1122,7 +1122,7 @@ button:focus {
 }
 
 #app-features .box-item {
-  margin: 30px 0;
+  margin: 120px 0;
 }
 
 #app-features .box-item .icon {
@@ -1810,6 +1810,12 @@ button:focus {
   line-height: 50px;
 }
 
+.contact {
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 60px;
+}
+
 .contents .header-button .btn i {
   margin-left: 10px;
 }
@@ -2145,7 +2151,7 @@ footer .footer-Content {
   background-image: -moz-linear-gradient(0deg, #3c96ff 0%, #2dfbff 100%);
   background-image: -webkit-linear-gradient(0deg, #3c96ff 0%, #2dfbff 100%);
   background-image: -ms-linear-gradient(0deg, #3c96ff 0%, #2dfbff 100%);
-  padding: 60px 0 0px;
+  padding: 20px 0 0px;
   color: #546E7A;
 }
 
