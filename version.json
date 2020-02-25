@@ -1,6 +1,6 @@
 {
-    "downloadLink":"https://www.lanzous.com/i9kx3fa",
-    "versionName":"2.9.5",
-    "releaseDate":"2020年2月22日",
-    "releaseNote":["优化数据刷新逻辑","修复按钮显示样式","增加部分动画"]
+    "downloadLink":"https://www.lanzous.com/i9oibna",
+    "versionName":"2.10.0",
+    "releaseDate":"2020年2月25日",
+    "releaseNote":["更新到Android Studio 3.6","修复并优化了单列布局的展开动画，现在动画中的item会始终保持在屏幕中","修复了item滑出屏幕时高度显示异常的bug"]
 }
