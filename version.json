@@ -1,6 +1,6 @@
 {
-    "downloadLink":"https://www.lanzous.com/i9oibna",
-    "versionName":"2.10.0",
-    "releaseDate":"2020年2月25日",
-    "releaseNote":["更新到Android Studio 3.6","修复并优化了单列布局的展开动画，现在动画中的item会始终保持在屏幕中","修复了item滑出屏幕时高度显示异常的bug"]
+    "downloadLink":"https://www.lanzous.com/i9pbm8f",
+    "versionName":"2.10.1",
+    "releaseDate":"2020年2月26日",
+    "releaseNote":["修复了切换布局时item的展开状态异常的bug","修复了查找会导致程序闪退的bug","规范了搜索对话框的布局方式","规范了一些注释和对话框提示"]
 }
