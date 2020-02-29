@@ -1,6 +1,6 @@
 {
-    "downloadLink":"https://www.lanzous.com/i9pbm8f",
-    "versionName":"2.10.1",
-    "releaseDate":"2020年2月26日",
-    "releaseNote":["修复了切换布局时item的展开状态异常的bug","修复了查找会导致程序闪退的bug","规范了搜索对话框的布局方式","规范了一些注释和对话框提示"]
+    "downloadLink":"https://www.lanzous.com/i9t5sgh",
+    "versionName":"2.10.2",
+    "releaseDate":"2020年2月29日",
+    "releaseNote":["解除了平板模式的所有功能限制","新增伸展按钮的旋转动画"]
 }
