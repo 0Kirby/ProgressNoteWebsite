@@ -1,6 +1,6 @@
 {
-    "downloadLink":"https://www.lanzous.com/i9t5sgh",
-    "versionName":"2.10.2",
-    "releaseDate":"2020年2月29日",
-    "releaseNote":["解除了平板模式的所有功能限制","新增伸展按钮的旋转动画"]
+    "downloadLink":"https://www.lanzous.com/i9un5sf",
+    "versionName":"2.10.3",
+    "releaseDate":"2020年3月1日",
+    "releaseNote":["修复了修改第一条笔记后滑动回的位置异常的bug","修复卡片布局展开后高度显示异常的bug","修复了卡片布局展开状态丢失的bug"]
 }
