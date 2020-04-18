@@ -1,6 +1,6 @@
 {
-    "downloadLink":"https://www.lanzous.com/iaryv0h",
-    "versionName":"2.12.0",
-    "releaseDate":"2020年3月29日",
-    "releaseNote":["登录或注册时需输入验证码"]
+    "downloadLink":"https://0kirby.lanzous.com/ibkcr7c",
+    "versionName":"2.12.1",
+    "releaseDate":"2020年4月18日",
+    "releaseNote":["如果用户开启了“修改笔记时同步”，则在设置中选择“清除所有笔记”时给出警告","更改打包签名，请先卸载旧版再安装新版","更新README"]
 }
