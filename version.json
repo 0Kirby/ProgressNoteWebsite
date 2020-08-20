@@ -1,6 +1,6 @@
 {
-    "downloadLink":"https://0kirby.lanzous.com/icwj4na",
-    "versionName":"2.12.2",
-    "releaseDate":"2020年5月22日",
-    "releaseNote":["如果用户开启了“修改笔记时同步”，则在设置中选择“清除所有笔记”时给出警告","更新依赖","更新README"]
+    "downloadLink":"https://0kirby.lanzous.com/iJlStfueaze",
+    "versionName":"2.12.4",
+    "releaseDate":"2020年8月20日",
+    "releaseNote":["修复了深色模式下卡片文字颜色异常的bug","修复了深色模式下设置按钮点击动画丢失和开关样式显示异常的bug","更新依赖"]
 }
