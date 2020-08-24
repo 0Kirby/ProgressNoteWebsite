@@ -1,6 +1,6 @@
 {
-    "downloadLink":"https://0kirby.lanzous.com/iJlStfueaze",
-    "versionName":"2.12.4",
-    "releaseDate":"2020年8月20日",
-    "releaseNote":["修复了深色模式下卡片文字颜色异常的bug","修复了深色模式下设置按钮点击动画丢失和开关样式显示异常的bug","更新依赖"]
+    "downloadLink":"https://0kirby.lanzous.com/iHqW4g0tm1i",
+    "versionName":"2.13.0",
+    "releaseDate":"2020年8月25日",
+    "releaseNote":["深色模式样式跟随系统","更新依赖"]
 }
