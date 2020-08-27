@@ -1,6 +1,6 @@
 {
-    "downloadLink":"https://0kirby.lanzous.com/iHqW4g0tm1i",
-    "versionName":"2.13.0",
-    "releaseDate":"2020年8月25日",
-    "releaseNote":["深色模式样式跟随系统","更新依赖"]
+    "downloadLink":"https://0kirby.lanzous.com/ioJlxg4k0pa",
+    "versionName":"2.13.1",
+    "releaseDate":"2020年8月28日",
+    "releaseNote":["调暗深色模式下的颜色","修复了在暗黑主题下点击卡片没有视觉特效的bug"]
 }
