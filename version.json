@@ -1,6 +1,6 @@
 {
-    "downloadLink":"https://0kirby.lanzous.com/ioJlxg4k0pa",
-    "versionName":"2.13.1",
-    "releaseDate":"2020年8月28日",
-    "releaseNote":["调暗深色模式下的颜色","修复了在暗黑主题下点击卡片没有视觉特效的bug"]
+    "downloadLink":"https://0kirby.lanzous.com/iReY9gl7q1g",
+    "versionName":"2.13.2",
+    "releaseDate":"2020年9月13日",
+    "releaseNote":["本次更新未增加新功能","规范化代码，使代码更加清晰易懂","将多个方法合并入数据库操作类"]
 }
