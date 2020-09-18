@@ -1,6 +1,6 @@
 {
-    "downloadLink":"https://0kirby.lanzous.com/iReY9gl7q1g",
-    "versionName":"2.13.2",
-    "releaseDate":"2020年9月13日",
-    "releaseNote":["本次更新未增加新功能","规范化代码，使代码更加清晰易懂","将多个方法合并入数据库操作类"]
+    "downloadLink":"https://0kirby.lanzous.com/iWvoTgqrgkf",
+    "versionName":"2.14.0",
+    "releaseDate":"2020年9月18日",
+    "releaseNote":["本次更新未增加新功能","重塑笔记的增删改查操作和编辑笔记的活动","修复在编辑笔记的活动中只点击一次就弹出再按一次退出的提示的bug","使代码规范化"]
 }
