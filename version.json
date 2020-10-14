@@ -1,6 +1,10 @@
 {
-    "downloadLink":"https://0kirby.lanzous.com/iAriTh8wu9g",
-    "versionName":"2.14.2",
-    "releaseDate":"2020年10月7日",
-    "releaseNote":["本次更新未增加新功能","更新依赖"]
+    "downloadLink": "https://0kirby.lanzous.com/ileDhhezquh",
+    "versionName": "2.14.3",
+    "releaseDate": "2020年10月14日",
+    "releaseNote": [
+        "本次更新未增加新功能",
+        "更新依赖",
+        "优化代码"
+    ]
 }
