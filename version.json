@@ -1,18 +1,8 @@
 {
-<<<<<<< HEAD
     "downloadLink": "https://0kirby.lanzous.com/iV5r1ih2oef",
     "versionName": "2.14.5",
     "releaseDate": "2020年11月17日",
     "releaseNote": [
         "修复了在卡片布局中长按删除笔记闪退的bug"
-=======
-    "downloadLink": "https://0kirby.lanzous.com/izx9fi56ysb",
-    "versionName": "2.14.4",
-    "releaseDate": "2020年11月2日",
-    "releaseNote": [
-        "修复每第一次登录需要重启应用才可以同步数据的bug",
-        "保存上一次的搜索笔记记录",
-        "规范refreshData()方法"
->>>>>>> 14dba359591f61e4e5c124ad4f4084bac4fb297f
     ]
 }
