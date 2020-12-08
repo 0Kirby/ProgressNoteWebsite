@@ -1,8 +1,9 @@
 {
-    "downloadLink": "https://0kirby.lanzous.com/iV5r1ih2oef",
-    "versionName": "2.14.5",
-    "releaseDate": "2020年11月17日",
+    "downloadLink": "https://0kirby.lanzous.com/iVrLnj5pk3c",
+    "versionName": "3.0.0",
+    "releaseDate": "2020年12月8日",
     "releaseNote": [
-        "修复了在卡片布局中长按删除笔记闪退的bug"
+        "修复了语言切换之后标题栏未切换的问题",
+        "移除了被弃用的 API"
     ]
 }
