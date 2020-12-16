@@ -1,9 +1,9 @@
 {
-    "downloadLink": "https://0kirby.lanzous.com/iByaEjd6hte",
-    "versionName": "3.0.1",
-    "releaseDate": "2020年12月14日",
+    "downloadLink": "https://0kirby.lanzous.com/idn7wjfikuh",
+    "versionName": "3.0.2",
+    "releaseDate": "2020年12月16日",
     "releaseNote": [
-        "迁移主题模块到Kotlin",
-        "修复主界面下拉刷新颜色问题"
+        "修复了非简体中文语言下无法更新的bug",
+        "当用户没有上传头像时将显示一个默认图标代替"
     ]
 }
