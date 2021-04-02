@@ -1,9 +1,9 @@
 {
-    "downloadLink": "https://0kirby.lanzous.com/idn7wjfikuh",
-    "versionName": "3.0.2",
-    "releaseDate": "2020年12月16日",
+    "downloadLink": "https://0kirby.lanzous.com/i8XuCnkly7a",
+    "versionName": "3.0.6",
+    "releaseDate": "2021年4月2日",
     "releaseNote": [
-        "修复了非简体中文语言下无法更新的bug",
-        "当用户没有上传头像时将显示一个默认图标代替"
+        "修改文件路径，修复了Android 11下无法使用上传头像功能的bug",
+        "增加英文语言"
     ]
 }
