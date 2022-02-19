@@ -1,9 +1,9 @@
 {
-    "downloadLink": "https://0kirby.lanzoui.com/i8XuCnkly7a",
-    "versionName": "3.0.6",
-    "releaseDate": "2021年4月2日",
+    "downloadLink": "https://0kirby.lanzouq.com/i4WwI00b7f5e",
+    "versionName": "3.0.8",
+    "releaseDate": "2022年2月19日",
     "releaseNote": [
-        "修改文件路径，修复了Android 11下无法使用上传头像功能的bug",
-        "增加英文语言"
+        "适配Android 12",
+        "更新依赖"
     ]
 }
