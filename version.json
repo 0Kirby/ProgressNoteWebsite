@@ -1,9 +1,10 @@
 {
-    "downloadLink": "https://0kirby.lanzouq.com/i4WwI00b7f5e",
-    "versionName": "3.0.8",
-    "releaseDate": "2022年2月19日",
+    "downloadLink": "https://0kirby.lanzouq.com/ieZ8x027l1mj",
+    "versionName": "3.1.0",
+    "releaseDate": "2022年3月28日",
     "releaseNote": [
-        "适配Android 12",
-        "更新依赖"
+        "✨增加了注销用户功能",
+        "⚡修复了一个UI bug，当设置项不可用时的文字颜色没有变灰",
+        "⬆️更新了依赖模板"
     ]
 }
