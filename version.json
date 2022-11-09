@@ -1,10 +1,8 @@
 {
-    "downloadLink": "https://0kirby.lanzouq.com/ieZ8x027l1mj",
-    "versionName": "3.1.0",
-    "releaseDate": "2022年3月28日",
+    "downloadLink": "https://0kirby.lanzouv.com/iZnAL0fgfykb",
+    "versionName": "3.1.1",
+    "releaseDate": "2022年11月8日",
     "releaseNote": [
-        "✨增加了注销用户功能",
-        "⚡修复了一个UI bug，当设置项不可用时的文字颜色没有变灰",
-        "⬆️更新了依赖模板"
+        "🐛修复了一个笔记顺序显示错乱的bug"
     ]
 }
