@@ -1,8 +1,9 @@
 {
-    "downloadLink": "https://0kirby.lanzouv.com/iZnAL0fgfykb",
-    "versionName": "3.1.1",
-    "releaseDate": "2022年11月8日",
+    "downloadLink": "https://0kirby.lanzouf.com/iiLMp0lt6rhg",
+    "versionName": "3.2.0",
+    "releaseDate": "2023年1月26日",
     "releaseNote": [
-        "🐛修复了一个笔记顺序显示错乱的bug"
+        "🐛修复了一个日期格式翻译错误的bug",
+        "⬆️更新依赖版本"
     ]
 }
